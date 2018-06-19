@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_md
 title: 18年第24周：Python下使用MongoDB详解（pymongo库）
 ---
 # 使用步骤：
