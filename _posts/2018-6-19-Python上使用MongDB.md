@@ -12,12 +12,18 @@ title: Very God,This is First page!
 
 -------------------------------------------------------------------------------------------------
 # 具体详解：
+
+===================================
 ##1、前提：已准备好的环境
->系统（Windows 10）、
->解释器（Python3.6）、
->编译器（Atom）、
+===================================
+
+>- 系统（Windows 10）、
+>- 解释器（Python3.6）、
+>- 编译器（Atom）、
+
 
 ##2、MongoDB：下载-安装-配置MongoDB
+===================================
 - **下载**
 >- 下载链接：[亲测可用于Windows10的MongDB3.4](https://fastdl.mongodb.org/win32/mongodb-win32-x86_64-2008plus-3.4.15-signed.msi)
 >- 更多下载链接：[亲测有些安装不成功](https://www.mongodb.com/download-center#community)
