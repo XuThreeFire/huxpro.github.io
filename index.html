@@ -1,42 +1,46 @@
----
-layout: page
-description: "友谊和目标并存"
----
+<!-- -&#45;&#45;-->
+<!--layout: page-->
+<!--description: "友谊和目标并存"-->
+<!-- -&#45;&#45;-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>三火的博客</title>
+</head>
+<div style="text-align:center;">
+<body>
+  <!-- 插入一条音频 -->
+  <!-- 插入一条视频 -->
+  <body>
 
-{% for post in paginator.posts %}
-<div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">
-            {{ post.title }}
-        </h2>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
-        </h3>
-        {% endif %}
-        <div class="post-content-preview">
-            {{ post.content | strip_html | truncate:200 }}
-        </div>
-    </a>
-    <p class="post-meta">
-        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
+      <h1 align="center">Welcome to watch my MV!</h1>
+      <video width="800" height="600" controls="controls" loop="loop" autoplay="autoplay"  style="margin-top: 15px" align="center">
+          <source src="video/张宇-小小的太阳.mp4" type="video/mp4" autoplay="autoplay" />
+          <!--<source src="movie.ogg" type="video/ogg" />-->
+          <!--<source src="movie.webm" type="video/webm" />-->
+          <!--<video width="800" height="600" loop="loop" autoplay="autoplay" controls="controls" style="margin-top: 15px">-->
+          <!--<object data="/video/张宇-小小的太阳.mp4"  width="800" height="600" >-->
+          <!--&lt;!&ndash;<embed src="张宇-小小的太阳.swf" width="320" height="240" />&ndash;&gt;-->
+          <!--</object>-->
+      </video>
+  </body>
+  <body>
+
+    <h2>Welcome to My img!</h2>
+    <img src="img/Reading09.jpg" alt="这是一个美图！">
+    <h2> BINGBIAN病变 (女声版) </h2>
+    <body>
+    <audio autoplay="autoplay" controls="controls" loop="loop">
+        <source src="img/audio01.mp3" type="audio/mp3">
+        你的浏览器不支持！
+    </audio>
+    </body>
+  </body>
+
+
+
+</body>
+    
 </div>
-<hr>
-{% endfor %}
-
-<!-- Pager -->
-{% if paginator.total_pages > 1 %}
-<ul class="pager">
-    {% if paginator.previous_page %}
-    <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-    </li>
-    {% endif %}
-    {% if paginator.next_page %}
-    <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-    </li>
-    {% endif %}
-</ul>
-{% endif %}
+</html>
