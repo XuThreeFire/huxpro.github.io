@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74a54ae9-be06-41be-9fb6-0bf16b2b6a65" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/V1_一键更新github.bat" afterPath="$PROJECT_DIR$/V1_一键更新github.bat" />
-      <change beforePath="$PROJECT_DIR$/V2_一键更新github_出现hint问题使用这个.bat" afterPath="$PROJECT_DIR$/V2_一键更新github_出现hint问题使用这个.bat" />
       <change beforePath="$PROJECT_DIR$/_posts/2015-05-11-see-u-ali.markdown" afterPath="$PROJECT_DIR$/_posts/2015-05-11-see-u-ali.markdown" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -135,7 +133,7 @@
             <entry file="file://$PROJECT_DIR$/_posts/2015-05-11-see-u-ali.markdown">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="255">
-                  <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+                  <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
                   <folding />
                 </state>
               </provider>
@@ -429,7 +427,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2015-05-11-see-u-ali.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
           <folding />
         </state>
       </provider>

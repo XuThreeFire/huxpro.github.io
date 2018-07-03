@@ -16,7 +16,7 @@ tags:
 Hi all  
 这里是鬼栈的离职信。
 
-![img](/img/Qiaobus.jpg)
+![**乔布斯的图片**](/img/Qiaobus.jpg)
 
 
 ---
