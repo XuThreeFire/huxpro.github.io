@@ -6,7 +6,6 @@ tagline:
 {% for post in paginator.posts %}
 
 <article class="home">
-  <link href="//cdn2.jianshu.io/assets/favicons/favicon-e743bfb1821442341c3ab15bdbe804f7ad97676bd07a770ccc9483473aa76f06.ico" rel="shortcut icon">
   <span class="post-date">
     {% assign d = post.date | date: "%d" | plus:'0' %}
     {{ post.date | date: "%B" }}
@@ -18,11 +17,11 @@ tagline:
     {% endcase %}
     {{ post.date | date: "%Y" }}
   </span>
-
+  <!--文章标题和链接-->
   <h2>
     <a href="{{ site.BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
   </h2>
-
+  <!--文章内容部分展示设置-->
   <div>
     {% if post.fullview %}
     {{ post.content }}
@@ -39,11 +38,11 @@ tagline:
   <hr>
 </article>
 {% endfor %}
+<!--文章结束后添加一条水平线-->
 <hr/>
 
-<ul class="pager"> 
-  <link href="//cdn2.jianshu.io/assets/favicons/favicon-e743bfb1821442341c3ab15bdbe804f7ad97676bd07a770ccc9483473aa76f06.ico" rel="shortcut icon">
-
+<!--文章末尾设置-->
+<ul class="pager">
   {% if paginator.previous_page %}
   <li class="previous">
     {% if paginator.previous_page == 1 %}
