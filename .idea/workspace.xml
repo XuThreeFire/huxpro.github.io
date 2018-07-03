@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74a54ae9-be06-41be-9fb6-0bf16b2b6a65" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/_includes/post.html" afterPath="$PROJECT_DIR$/_includes/post.html" />
-      <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" afterPath="$PROJECT_DIR$/_includes/sidebar.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -80,8 +78,8 @@
           <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/_includes/post.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1004">
-                  <caret line="96" column="42" lean-forward="false" selection-start-line="96" selection-start-column="42" selection-end-line="96" selection-end-column="42" />
+                <state relative-caret-position="324">
+                  <caret line="95" column="117" lean-forward="false" selection-start-line="95" selection-start-column="117" selection-end-line="95" selection-end-column="117" />
                   <folding />
                 </state>
               </provider>
@@ -174,9 +172,9 @@
         <option value="F:/WebStom/html_css/html/016---banner.html" />
         <option value="F:/WebStom/html_Day03/js/001-js.js" />
         <option value="F:/WebStom/html_Day03/html/001.html" />
-        <option value="$PROJECT_DIR$/_includes/post.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_includes/sidebar.html" />
+        <option value="$PROJECT_DIR$/_includes/post.html" />
       </list>
     </option>
   </component>
@@ -687,8 +685,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1004">
-          <caret line="96" column="42" lean-forward="false" selection-start-line="96" selection-start-column="42" selection-end-line="96" selection-end-column="42" />
+        <state relative-caret-position="324">
+          <caret line="95" column="117" lean-forward="false" selection-start-line="95" selection-start-column="117" selection-end-line="95" selection-end-column="117" />
           <folding />
         </state>
       </provider>
