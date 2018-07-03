@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 18年第24周：Python下使用MongoDB详解（pymongo库）
-# description: Python怎么用MongDB
+description: Python怎么用MongDB
 categories: [05-PythonLib]
 ---
 

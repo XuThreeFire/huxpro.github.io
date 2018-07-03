@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74a54ae9-be06-41be-9fb6-0bf16b2b6a65" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/page.html" afterPath="$PROJECT_DIR$/_includes/page.html" />
-      <change beforePath="$PROJECT_DIR$/_includes/post.html" afterPath="$PROJECT_DIR$/_includes/post.html" />
+      <change beforePath="$PROJECT_DIR$/_posts/05-Python库学习/2018-06-16-PythonMongDB.md" afterPath="$PROJECT_DIR$/_posts/05-Python库学习/2018-06-16-PythonMongDB.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-07-01-简书文章Demo.md" afterPath="$PROJECT_DIR$/_posts/2018-07-01-简书文章Demo.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -162,7 +162,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="431" />
     <option name="y" value="62" />
     <option name="width" value="940" />
@@ -312,7 +312,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="431" y="62" width="940" height="728" extended-state="1" />
+    <frame x="431" y="62" width="940" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
