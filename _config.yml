@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: 三火的个人博客
+title: 三火 Blog
 
 defaults:
   -
