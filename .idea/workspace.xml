@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74a54ae9-be06-41be-9fb6-0bf16b2b6a65" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/default.html" afterPath="$PROJECT_DIR$/_includes/default.html" />
-    </list>
+    <list default="true" id="74a54ae9-be06-41be-9fb6-0bf16b2b6a65" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,34 +14,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="6" lean-forward="false" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="124" column="0" lean-forward="false" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="001.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="001.html" pinned="false" current-in-tab="true">
         <entry file="file://F:/WebStom/html_Day03/html/001.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="44" column="6" lean-forward="false" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+            <state relative-caret-position="221">
+              <caret line="70" column="25" lean-forward="false" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
               <folding>
                 <element signature="n#style#0;n#body#1;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.app.ff5ba687a3b387dde940.css" pinned="false" current-in-tab="false">
+        <entry file="file://F:/WebStom/Html_Day02/css/main.app.ff5ba687a3b387dde940.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="0" column="4010" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day02_css.css" pinned="false" current-in-tab="false">
+        <entry file="file://F:/WebStom/Html_Day02/css/day02_css.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82">
+              <caret line="16" column="21" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="001-js.js" pinned="false" current-in-tab="false">
+        <entry file="file://F:/WebStom/html_Day03/js/001-js.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="22" lean-forward="true" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -61,38 +69,8 @@
       <file leaf-file-name="布局.css" pinned="false" current-in-tab="false">
         <entry file="file://F:/WebStom/Html_Day02/css/布局.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-649">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_includes/default.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="38" column="25" lean-forward="false" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sidebar.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="563">
-              <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+            <state relative-caret-position="439">
+              <caret line="64" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -148,8 +126,8 @@
         <option value="$PROJECT_DIR$/_includes/sidebar.html" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="F:/WebStom/html_Day03/html/001.html" />
         <option value="$PROJECT_DIR$/_includes/default.html" />
+        <option value="F:/WebStom/html_Day03/html/001.html" />
       </list>
     </option>
   </component>
@@ -159,7 +137,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="431" />
     <option name="y" value="62" />
     <option name="width" value="940" />
@@ -229,6 +207,12 @@
               <item name="WebStom" type="462c0819:PsiDirectoryNode" />
               <item name="html_Day03" type="462c0819:PsiDirectoryNode" />
               <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuthreefire.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebStom" type="462c0819:PsiDirectoryNode" />
+              <item name="html_Day03" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -303,7 +287,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="431" y="62" width="940" height="728" extended-state="1" />
+    <frame x="431" y="62" width="940" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -585,14 +569,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/WebStom/html_Day03/js/001-js.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/disqus.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -694,14 +670,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/WebStom/Html_Day02/css/布局.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-649">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://F:/WebStom/Html_Day02/html/布局.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -710,47 +678,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/WebStom/Html_Day02/css/main.app.ff5ba687a3b387dde940.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1717">
-          <caret line="0" column="4810" lean-forward="false" selection-start-line="0" selection-start-column="4800" selection-end-line="0" selection-end-column="4810" />
-          <folding>
-            <element signature="e#28907#29218#2" expanded="false" />
-            <element signature="e#36542#36853#2" expanded="false" />
-            <element signature="e#37008#37166#2" expanded="false" />
-            <element signature="e#40092#40250#2" expanded="false" />
-            <element signature="e#43030#43450#2" expanded="false" />
-            <element signature="e#45271#45582#2" expanded="false" />
-            <element signature="e#164576#164732#1" expanded="false" />
-            <element signature="e#164754#164910#1" expanded="false" />
-            <element signature="e#353510#353666#1" expanded="false" />
-            <element signature="e#353688#353844#1" expanded="false" />
-            <element signature="e#370429#370743#2" expanded="false" />
-            <element signature="e#413824#413981#1" expanded="false" />
-            <element signature="e#414003#414160#1" expanded="false" />
-            <element signature="e#415119#415276#1" expanded="false" />
-            <element signature="e#415298#415455#1" expanded="false" />
-            <element signature="e#416392#416548#1" expanded="false" />
-            <element signature="e#416570#416726#1" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/WebStom/html_Day03/html/001.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="44" column="6" lean-forward="false" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#body#1;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="38" column="25" lean-forward="false" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/WebStom/Html_Day02/css/布局.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="64" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/WebStom/Html_Day02/css/main.app.ff5ba687a3b387dde940.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="0" column="4010" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/WebStom/Html_Day02/css/day02_css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/WebStom/html_Day03/js/001-js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="true" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/WebStom/html_Day03/html/001.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="70" column="25" lean-forward="false" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#body#1;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
