@@ -1,4 +1,0 @@
-cd F:\GitProject\xuthreefire.github.io\xuthreefire.github.io
-git add .
-git commit -m 'new001'
-git push origin master
