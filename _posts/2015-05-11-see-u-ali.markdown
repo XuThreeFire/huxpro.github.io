@@ -5,6 +5,15 @@ subtitle:   "再见，阿里。"
 date:       2015-05-11
 author:     "Hux"
 header-img: "img/Qiaobus.jpg"
+categories:
+    - 1 - 随笔
+    - 2 - 习惯
+    - 3 - 英语学习
+    - 4 - Python学习
+    - 5 - Python库学习
+    - 6 - 机器学习
+    - 8 - 胡乱研究
+    - 9 - 省力的工具
 tags:
     - 生活
     - 阿里巴巴
@@ -101,11 +110,9 @@ Hi all
 
 * 微博：@Hux黄玄
 * 知乎：@黄玄
-* 博客：<http://huangxuan.me>
+* 博客：<http://threefire.top>
 
  
-**Hey，这里是编号 79717**
- 
-![img](/img/in-post/post-c-u-ali-079717.png)
+
 
 ---
