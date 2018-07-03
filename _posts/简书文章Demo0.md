@@ -1,0 +1,12 @@
+---
+layout: post
+title: 18年第22周：胡适 | 赠与今年的大学毕业生
+description: 时光匆匆，便要大学毕业了，想起以前没毕业时看到的一篇文章胡适的《赠与今年的大学毕业生》。
+如今，要毕业了，就拿来与诸君分享！
+categories: [01-Essays]
+---
+
+## 文章在简书，点击按钮跳转！
+<a class="btn btn-default" href="https://www.jianshu.com/p/2ec3c2cf2a14">简书链接!</a>
+
+---
