@@ -5,15 +5,8 @@ subtitle:   "再见，简书。"
 date:       2015-05-11
 author:     "三火"
 header-img: "img/Qiaobus.jpg"
-categories:
-    - 1 - 随笔
-    - 2 - 习惯
-    - 3 - 英语学习
-    - 4 - Python学习
-    - 5 - Python库学习
-    - 6 - 机器学习
-    - 8 - 胡乱研究
-    - 9 - 省力的工具
+categories: [习惯]
+fullview: true
 ---
 
 
