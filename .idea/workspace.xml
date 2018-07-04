@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74a54ae9-be06-41be-9fb6-0bf16b2b6a65" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/zhizhu.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_includes/default.html" afterPath="$PROJECT_DIR$/_includes/default.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/page.html" afterPath="$PROJECT_DIR$/_includes/page.html" />
+      <change beforePath="$PROJECT_DIR$/assets/js/zhizhu.js" afterPath="$PROJECT_DIR$/assets/js/zhizhu.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,22 +18,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="climp.js" pinned="false" current-in-tab="false">
-        <entry file="file://F:/WebStom/html_Day04/js/climp.js">
+      <file leaf-file-name="蜘蛛动态.html" pinned="false" current-in-tab="false">
+        <entry file="file://F:/WebStom/html_Day04/html/蜘蛛动态.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-68">
-              <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-              <folding />
+            <state relative-caret-position="255">
+              <caret line="15" column="71" lean-forward="true" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
+              <folding>
+                <element signature="n#style#0;n#HR#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#HR#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#HR#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="蜘蛛动态.html" pinned="false" current-in-tab="false">
-        <entry file="file://F:/WebStom/html_Day04/html/蜘蛛动态.html">
+      <file leaf-file-name="page.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="75" />
-              <folding />
+            <state relative-caret-position="51">
+              <caret line="3" column="40" lean-forward="false" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+              <folding>
+                <element signature="n#style#0;n#hr#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -51,18 +57,18 @@
       <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="116" column="0" lean-forward="true" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+            <state relative-caret-position="68">
+              <caret line="40" column="86" lean-forward="true" selection-start-line="40" selection-start-column="86" selection-end-line="40" selection-end-column="86" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zhizhu.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="zhizhu.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/zhizhu.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            <state relative-caret-position="365">
+              <caret line="29" column="359" lean-forward="false" selection-start-line="29" selection-start-column="359" selection-end-line="29" selection-end-column="359" />
               <folding />
             </state>
           </provider>
@@ -121,6 +127,7 @@
       <find>9</find>
       <find>h1</find>
       <find>un();</find>
+      <find>px</find>
       <find>script</find>
     </findStrings>
   </component>
@@ -144,7 +151,6 @@
         <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="F:/WebStom/html_Day03/html/001.html" />
-        <option value="$PROJECT_DIR$/_includes/page.html" />
         <option value="$PROJECT_DIR$/_includes/post.html" />
         <option value="F:/WebStom/html_Day04/html/js100案例.html" />
         <option value="F:/WebStom/html_Day04/css/lunbo.css" />
@@ -154,9 +160,10 @@
         <option value="F:/WebStom/html_Day04/html/day04.html" />
         <option value="F:/WebStom/html_Day04/js/climp.js" />
         <option value="F:/WebStom/html_Day04/html/蜘蛛网.html" />
-        <option value="F:/WebStom/html_Day04/html/蜘蛛动态.html" />
-        <option value="$PROJECT_DIR$/assets/js/zhizhu.js" />
         <option value="$PROJECT_DIR$/_includes/default.html" />
+        <option value="$PROJECT_DIR$/assets/js/zhizhu.js" />
+        <option value="F:/WebStom/html_Day04/html/蜘蛛动态.html" />
+        <option value="$PROJECT_DIR$/_includes/page.html" />
       </list>
     </option>
   </component>
@@ -274,7 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.day04.html">
+  <component name="RunManager" selected="JavaScript Debug.蜘蛛动态.html">
     <configuration name="016---banner.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xuthreefire.github.io/html_css/html/016---banner.html" />
     <configuration name="蜘蛛网.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xuthreefire.github.io/html_Day04/html/蜘蛛网.html" />
     <configuration name="蜘蛛动态.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xuthreefire.github.io/html_Day04/html/蜘蛛动态.html" />
@@ -289,8 +296,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.day04.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.蜘蛛动态.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.蜘蛛动态.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.day04.html" />
         <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.蜘蛛网.html" />
         <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.016---banner.html" />
         <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.lunbo.html" />
@@ -568,13 +575,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://F:/WebStom/Html_Day02/css/day02_css.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -666,18 +666,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/_includes/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="68">
+          <caret line="40" column="86" lean-forward="true" selection-start-line="40" selection-start-column="86" selection-end-line="40" selection-end-column="86" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/WebStom/html_Day04/html/蜘蛛动态.html">
+    <entry file="file://$PROJECT_DIR$/assets/js/zhizhu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="75" />
+        <state relative-caret-position="365">
+          <caret line="29" column="359" lean-forward="false" selection-start-line="29" selection-start-column="359" selection-end-line="29" selection-end-column="359" />
           <folding />
         </state>
       </provider>
@@ -705,19 +705,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/default.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="116" column="0" lean-forward="true" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/zhizhu.js">
+    <entry file="file://F:/WebStom/html_Day04/html/蜘蛛动态.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="255">
+          <caret line="15" column="71" lean-forward="true" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
+          <folding>
+            <element signature="n#style#0;n#HR#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#HR#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#HR#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="40" lean-forward="false" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <folding>
+            <element signature="n#style#0;n#hr#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
