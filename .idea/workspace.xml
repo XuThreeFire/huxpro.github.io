@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74a54ae9-be06-41be-9fb6-0bf16b2b6a65" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/xuanzhuan.css" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_includes/page.html" afterPath="$PROJECT_DIR$/_includes/page.html" />
       <change beforePath="$PROJECT_DIR$/_includes/post.html" afterPath="$PROJECT_DIR$/_includes/post.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +21,8 @@
       <file leaf-file-name="蜘蛛动态.html" pinned="false" current-in-tab="false">
         <entry file="file://F:/WebStom/html_Day04/html/蜘蛛动态.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="48" column="30" lean-forward="false" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+            <state relative-caret-position="473">
+              <caret line="63" column="10" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="63" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -31,8 +31,18 @@
       <file leaf-file-name="xuanzhuan.css" pinned="false" current-in-tab="false">
         <entry file="file://F:/WebStom/html_Day04/css/xuanzhuan.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state relative-caret-position="2547">
+              <caret line="166" column="18" lean-forward="false" selection-start-line="166" selection-start-column="18" selection-end-line="166" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xuanzhuan.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/xuanzhuan.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -41,9 +51,11 @@
       <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-              <folding />
+            <state relative-caret-position="816">
+              <caret line="48" column="10" lean-forward="false" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+              <folding>
+                <element signature="n#style#0;n#hr#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -130,9 +142,9 @@
         <option value="F:/WebStom/html_Day04/html/蜘蛛网.html" />
         <option value="$PROJECT_DIR$/_includes/default.html" />
         <option value="$PROJECT_DIR$/assets/js/zhizhu.js" />
-        <option value="F:/WebStom/html_Day04/html/蜘蛛动态.html" />
-        <option value="F:/WebStom/html_Day04/css/xuanzhuan.css" />
         <option value="$PROJECT_DIR$/_includes/page.html" />
+        <option value="F:/WebStom/html_Day04/css/xuanzhuan.css" />
+        <option value="F:/WebStom/html_Day04/html/蜘蛛动态.html" />
         <option value="$PROJECT_DIR$/_includes/post.html" />
       </list>
     </option>
@@ -183,19 +195,20 @@
               <item name="xuthreefire.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="xuthreefire.github" type="9c53a853:ProjectViewModuleGroupNode" />
               <item name="xuthreefire.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xuthreefire.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xuthreefire.github" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="xuthreefire.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xuthreefire.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xuthreefire.github" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="xuthreefire.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuthreefire.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuthreefire.github" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="xuthreefire.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuthreefire.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuthreefire.github" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="xuthreefire.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="xuthreefire.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -241,6 +254,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GitProject\xuthreefire.github.io\xuthreefire.github.io\assets\css" />
       <recent name="F:\GitProject\xuthreefire.github.io\xuthreefire.github.io\img" />
     </key>
   </component>
@@ -356,11 +370,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/ico/favicon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -673,7 +682,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-07-01-简书文章Demo.md">
+    <entry file="file://F:/WebStom/html_Day04/html/蜘蛛动态.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="63" column="10" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="63" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/xuanzhuan.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -681,18 +698,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/WebStom/html_Day04/html/蜘蛛动态.html">
+    <entry file="file://F:/WebStom/html_Day04/css/xuanzhuan.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="48" column="30" lean-forward="false" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+        <state relative-caret-position="2547">
+          <caret line="166" column="18" lean-forward="false" selection-start-line="166" selection-start-column="18" selection-end-line="166" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/WebStom/html_Day04/css/xuanzhuan.css">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-07-01-简书文章Demo.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -707,9 +724,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-          <folding />
+        <state relative-caret-position="816">
+          <caret line="48" column="10" lean-forward="false" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#hr#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
