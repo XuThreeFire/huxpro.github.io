@@ -49,10 +49,11 @@
       <file leaf-file-name="default.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-931">
-              <caret line="42" column="12" lean-forward="false" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+            <state relative-caret-position="344">
+              <caret line="42" column="34" lean-forward="false" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
               <folding>
-                <marker date="1530759989455" expanded="false" signature="2011:3250" ph="..." />
+                <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1530760694473" expanded="false" signature="2054:3293" ph="..." />
               </folding>
             </state>
           </provider>
@@ -97,7 +98,7 @@
       <file leaf-file-name="蜘蛛网.html" pinned="false" current-in-tab="false">
         <entry file="file://F:/WebStom/html_Day04/html/蜘蛛网.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
+            <state relative-caret-position="357">
               <caret line="436" column="4" lean-forward="true" selection-start-line="436" selection-start-column="4" selection-end-line="436" selection-end-column="4" />
               <folding>
                 <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -119,8 +120,8 @@
       <file leaf-file-name="big_zhizhu.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/big_zhizhu.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="72" lean-forward="true" selection-start-line="24" selection-start-column="72" selection-end-line="24" selection-end-column="72" />
+            <state relative-caret-position="281">
+              <caret line="258" column="34" lean-forward="false" selection-start-line="258" selection-start-column="28" selection-end-line="258" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -162,6 +163,7 @@
       <find>tag_box</find>
       <find>px</find>
       <find>style</find>
+      <find>head</find>
       <find>spider</find>
     </findStrings>
   </component>
@@ -809,14 +811,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/big_zhizhu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="72" lean-forward="true" selection-start-line="24" selection-start-column="72" selection-end-line="24" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/zhizhu.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -827,7 +821,7 @@
     </entry>
     <entry file="file://F:/WebStom/html_Day04/html/蜘蛛网.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
+        <state relative-caret-position="357">
           <caret line="436" column="4" lean-forward="true" selection-start-line="436" selection-start-column="4" selection-end-line="436" selection-end-column="4" />
           <folding>
             <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -835,12 +829,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/big_zhizhu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="258" column="34" lean-forward="false" selection-start-line="258" selection-start-column="28" selection-end-line="258" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-931">
-          <caret line="42" column="12" lean-forward="false" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+        <state relative-caret-position="344">
+          <caret line="42" column="34" lean-forward="false" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
           <folding>
-            <marker date="1530759989455" expanded="false" signature="2011:3250" ph="..." />
+            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1530760694473" expanded="false" signature="2054:3293" ph="..." />
           </folding>
         </state>
       </provider>
