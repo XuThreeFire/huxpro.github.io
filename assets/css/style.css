@@ -89,9 +89,15 @@ article .share .gplus:hover {
 }
 
 @media only screen and (min-width: 768px) {
-    .page-header{
-        margin-right: 140px;
-		margin-left: 140px;
+    /*.page-header{*/
+        /*margin-right: 140px;*/
+		/*margin-left: 140px;*/
+    /*}*/
+    /*140 140 用于主页文章的三火 Blog*/
+	/*210 140用于一篇文章的标题*/
+	.page-header{
+        margin-right: 210px;
+		margin-left: 60px;
     }
 }
 
