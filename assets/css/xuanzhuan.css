@@ -35,17 +35,18 @@ body {
 
 .ball:nth-child(2) {
 	background: #0c0924;
+	-webkit-animation: right 1.05s infinite ease-in-out;
+	-moz-animation: right 1.05s infinite ease-in-out;
+	animation: right 1.05s infinite ease-in-out;
+}
+
+.ball:nth-child(3) {
+	background: #0c0924;
 	-webkit-animation: left 1.1s infinite ease-in-out;
 	-moz-animation: left 1.1s infinite ease-in-out;
 	animation: left 1.1s infinite ease-in-out;
 }
 
-.ball:nth-child(3) {
-	background: #0c0924;
-	-webkit-animation: right 1.05s infinite ease-in-out;
-	-moz-animation: right 1.05s infinite ease-in-out;
-	animation: right 1.05s infinite ease-in-out;
-}
 
 .ball:nth-child(4) {
 	background: #0c0924;
@@ -74,12 +75,15 @@ body {
 	-moz-animation: right 1s infinite ease-in-out;
 	animation: right 1s infinite ease-in-out;
 }
+
+
 .ball:nth-child(8) {
 	background: #0c0924;
-	-webkit-animation: right 1s infinite ease-in-out;
-	-moz-animation: right 1s infinite ease-in-out;
-	animation: right 1s infinite ease-in-out;
+	-webkit-animation: right 1.05s infinite ease-in-out;
+	-moz-animation: right 1.05s infinite ease-in-out;
+	animation: right 1.05s infinite ease-in-out;
 }
+
 
 .ball:nth-child(9) {
 	background: #0c0924;
@@ -90,93 +94,138 @@ body {
 
 .ball:nth-child(10) {
 	background: #0c0924;
-	-webkit-animation: right 1.05s infinite ease-in-out;
-	-moz-animation: right 1.05s infinite ease-in-out;
-	animation: right 1.05s infinite ease-in-out;
-}
-
-.ball:nth-child(11) {
-	background: #0c0924;
 	-webkit-animation: left 1.15s infinite ease-in-out;
 	-moz-animation: left 1.15s infinite ease-in-out;
 	animation: left 1.15s infinite ease-in-out;
 }
 
-.ball:nth-child(12) {
+.ball:nth-child(11) {
 	background: #0c0924;
 	-webkit-animation: right 1.1s infinite ease-in-out;
 	-moz-animation: right 1.1s infinite ease-in-out;
 	animation: right 1.1s infinite ease-in-out;
 }
 
-.ball:nth-child(13) {
+.ball:nth-child(12) {
 	background: #0c0924;
 	-webkit-animation: left 1.05s infinite ease-in-out;
 	-moz-animation: left 1.05s infinite ease-in-out;
 	animation: left 1.05s infinite ease-in-out;
 }
 
-.ball:nth-child(14) {
+.ball:nth-child(13) {
 	background: #0c0924;
 	-webkit-animation: right 1s infinite ease-in-out;
 	-moz-animation: right 1s infinite ease-in-out;
 	animation: right 1s infinite ease-in-out;
+}
+
+
+.ball:nth-child(14) {
+	background: #0c0924;
+	-webkit-animation: right 1.05s infinite ease-in-out;
+	-moz-animation: right 1.05s infinite ease-in-out;
+	animation: right 1.05s infinite ease-in-out;
 }
 
 .ball:nth-child(15) {
-	background: #0c0924;
-	-webkit-animation: right 1s infinite ease-in-out;
-	-moz-animation: right 1s infinite ease-in-out;
-	animation: right 1s infinite ease-in-out;
-}
-.ball:nth-child(16) {
-	background: #0c0924;
-	-webkit-animation: right 1s infinite ease-in-out;
-	-moz-animation: right 1s infinite ease-in-out;
-	animation: right 1s infinite ease-in-out;
-}
-
-.ball:nth-child(17) {
 	background: #0c0924;
 	-webkit-animation: left 1.1s infinite ease-in-out;
 	-moz-animation: left 1.1s infinite ease-in-out;
 	animation: left 1.1s infinite ease-in-out;
 }
 
-.ball:nth-child(18) {
-	background: #0c0924;
-	-webkit-animation: right 1.05s infinite ease-in-out;
-	-moz-animation: right 1.05s infinite ease-in-out;
-	animation: right 1.05s infinite ease-in-out;
-}
-
-.ball:nth-child(19) {
+.ball:nth-child(16) {
 	background: #0c0924;
 	-webkit-animation: left 1.15s infinite ease-in-out;
 	-moz-animation: left 1.15s infinite ease-in-out;
 	animation: left 1.15s infinite ease-in-out;
 }
 
-.ball:nth-child(20) {
+.ball:nth-child(17) {
 	background: #0c0924;
 	-webkit-animation: right 1.1s infinite ease-in-out;
 	-moz-animation: right 1.1s infinite ease-in-out;
 	animation: right 1.1s infinite ease-in-out;
 }
 
-.ball:nth-child(21) {
+.ball:nth-child(18) {
 	background: #0c0924;
 	-webkit-animation: left 1.05s infinite ease-in-out;
 	-moz-animation: left 1.05s infinite ease-in-out;
 	animation: left 1.05s infinite ease-in-out;
 }
 
-.ball:nth-child(22) {
+
+.ball:nth-child(19) {
 	background: #0c0924;
 	-webkit-animation: right 1s infinite ease-in-out;
 	-moz-animation: right 1s infinite ease-in-out;
 	animation: right 1s infinite ease-in-out;
 }
+.ball:nth-child(20) {
+	background: #0c0924;
+	-webkit-animation: right 1.05s infinite ease-in-out;
+	-moz-animation: right 1.05s infinite ease-in-out;
+	animation: right 1.05s infinite ease-in-out;
+}
+
+.ball:nth-child(21) {
+	background: #0c0924;
+	-webkit-animation: right 1.1s infinite ease-in-out;
+	-moz-animation: right 1.1s infinite ease-in-out;
+	animation: right 1.1s infinite ease-in-out;
+}
+
+.ball:nth-child(22) {
+	background: #0c0924;
+	-webkit-animation: right 1.15s infinite ease-in-out;
+	-moz-animation: right 1.15s infinite ease-in-out;
+	animation: right 1.15s infinite ease-in-out;
+}
+
+.ball:nth-child(23) {
+	background: #0c0924;
+	-webkit-animation: right 1.1s infinite ease-in-out;
+	-moz-animation: right 1.1s infinite ease-in-out;
+	animation: right 1.1s infinite ease-in-out;
+}
+
+.ball:nth-child(24) {
+	background: #0c0924;
+	-webkit-animation: left 1.05s infinite ease-in-out;
+	-moz-animation: left 1.05s infinite ease-in-out;
+	animation: left 1.05s infinite ease-in-out;
+}
+
+
+.ball:nth-child(25) {
+	background: #0c0924;
+	-webkit-animation: right 1s infinite ease-in-out;
+	-moz-animation: right 1s infinite ease-in-out;
+	animation: right 1s infinite ease-in-out;
+}
+.ball:nth-child(26) {
+	background: #0c0924;
+	-webkit-animation: right 1.05s infinite ease-in-out;
+	-moz-animation: right 1.05s infinite ease-in-out;
+	animation: right 1.05s infinite ease-in-out;
+}
+
+.ball:nth-child(27) {
+	background: #0c0924;
+	-webkit-animation: right 1.1s infinite ease-in-out;
+	-moz-animation: right 1.1s infinite ease-in-out;
+	animation: right 1.1s infinite ease-in-out;
+}
+
+.ball:nth-child(28) {
+	background: #0c0924;
+	-webkit-animation: right 1.15s infinite ease-in-out;
+	-moz-animation: right 1.15s infinite ease-in-out;
+	animation: right 1.15s infinite ease-in-out;
+}
+
 
 @-webkit-keyframes right {
 	0% {
