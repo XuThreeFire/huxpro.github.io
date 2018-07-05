@@ -73,8 +73,9 @@
 
 		<hr>
 
+		<!--Begin:除去分享栏目
 		<div>
-      <section class="share col-sm-6">
+      		<section class="share col-sm-6">
         <h4 class="section-title">Share Post</h4>
         <a class="btn btn-default btn-sm twitter" href="http://twitter.com/share?text={{page.title | encode}}{% if site.author.twitter%}&via={{site.author.twitter}}{% endif %}"
            onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
@@ -93,12 +94,13 @@
         </a>
       </section>
 
-      <section class="col-sm-6 author">
+      		<section class="col-sm-6 author">
         <img src="https://static.comicvine.com/uploads/scale_medium/5/58127/1715224-steve_jobs_headshot_2010_crop.jpg" class="img-rounded author-image"  width="80px" height="80px"/>
         <h4 class="section-title author-name">{{site.author.name}}</h4>
         <p class="author-bio">{{site.author.bio}}</p>
       </section>
-    </div>
+		</div>
+		   END: 除去分享栏目-->
 
     <div class="clearfix"></div>
 
