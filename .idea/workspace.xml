@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74a54ae9-be06-41be-9fb6-0bf16b2b6a65" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/_includes/post.html" afterPath="$PROJECT_DIR$/_includes/post.html" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +20,18 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="100" column="17" lean-forward="false" selection-start-line="100" selection-start-column="17" selection-end-line="100" selection-end-column="17" />
+            <state relative-caret-position="425">
+              <caret line="85" column="23" lean-forward="false" selection-start-line="85" selection-start-column="23" selection-end-line="85" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tags.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tags.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -29,8 +40,18 @@
       <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="106" column="24" lean-forward="false" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="24" />
+            <state relative-caret-position="191">
+              <caret line="25" column="54" lean-forward="false" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/default.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="124" column="60" lean-forward="false" selection-start-line="124" selection-start-column="60" selection-end-line="124" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -70,6 +91,7 @@
       <find>previous</find>
       <find>article</find>
       <find>pager</find>
+      <find>tag_box</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -100,7 +122,6 @@
         <option value="$PROJECT_DIR$/assets/js/zhizhu.js" />
         <option value="$PROJECT_DIR$/_includes/page.html" />
         <option value="F:/WebStom/html_Day04/html/蜘蛛动态.html" />
-        <option value="$PROJECT_DIR$/_includes/post.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="F:/WebStom/html_Day05/html/day05.html" />
         <option value="$PROJECT_DIR$/assets/html/wechat.html" />
@@ -108,6 +129,7 @@
         <option value="F:/WebStom/html_Day04/html/蜘蛛网.html" />
         <option value="$PROJECT_DIR$/assets/css/xuanzhuan.css" />
         <option value="F:/WebStom/html_Day04/css/xuanzhuan.css" />
+        <option value="$PROJECT_DIR$/_includes/post.html" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
       </list>
     </option>
@@ -433,13 +455,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tags.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -628,14 +643,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="12" column="81" lean-forward="false" selection-start-line="12" selection-start-column="81" selection-end-line="12" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -710,18 +717,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="124" column="60" lean-forward="false" selection-start-line="124" selection-start-column="60" selection-end-line="124" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="106" column="24" lean-forward="false" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="24" />
+        <state relative-caret-position="191">
+          <caret line="25" column="54" lean-forward="false" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tags.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="100" column="17" lean-forward="false" selection-start-line="100" selection-start-column="17" selection-end-line="100" selection-end-column="17" />
+        <state relative-caret-position="425">
+          <caret line="85" column="23" lean-forward="false" selection-start-line="85" selection-start-column="23" selection-end-line="85" selection-end-column="23" />
           <folding />
         </state>
       </provider>
