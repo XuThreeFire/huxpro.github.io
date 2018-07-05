@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74a54ae9-be06-41be-9fb6-0bf16b2b6a65" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/post.html" afterPath="$PROJECT_DIR$/_includes/post.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/page.html" afterPath="$PROJECT_DIR$/_includes/page.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#hr#0;n#div#0;n#!!top" expanded="true" />
@@ -49,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="page.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="23" />
+            <state relative-caret-position="34">
+              <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
               <folding>
                 <element signature="n#style#0;n#hr#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -61,11 +61,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="124" column="60" lean-forward="false" selection-start-line="124" selection-start-column="60" selection-end-line="124" selection-end-column="60" />
+            <state relative-caret-position="586">
+              <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -134,7 +144,6 @@
         <option value="F:/WebStom/html_Day04/html/day04.html" />
         <option value="F:/WebStom/html_Day04/js/climp.js" />
         <option value="$PROJECT_DIR$/assets/js/zhizhu.js" />
-        <option value="$PROJECT_DIR$/_includes/page.html" />
         <option value="F:/WebStom/html_Day04/html/蜘蛛动态.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="F:/WebStom/html_Day05/html/day05.html" />
@@ -145,6 +154,7 @@
         <option value="F:/WebStom/html_Day04/css/xuanzhuan.css" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/_includes/post.html" />
+        <option value="$PROJECT_DIR$/_includes/page.html" />
       </list>
     </option>
   </component>
@@ -194,6 +204,12 @@
               <item name="xuthreefire.github" type="9c53a853:ProjectViewModuleGroupNode" />
               <item name="xuthreefire.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuthreefire.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuthreefire.github" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="xuthreefire.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="xuthreefire.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -627,13 +643,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-01-简书文章Demo.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -721,14 +730,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="124" column="60" lean-forward="false" selection-start-line="124" selection-start-column="60" selection-end-line="124" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tags.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="139">
@@ -745,22 +746,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/page.html">
+    <entry file="file://$PROJECT_DIR$/_includes/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="23" />
-          <folding>
-            <element signature="n#style#0;n#hr#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="586">
+          <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding>
             <element signature="n#style#0;n#hr#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
