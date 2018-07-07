@@ -5,8 +5,11 @@ header: Posts By Category
 group: navigation
 ---
 <script>
+    function $(id) {
+        return document.getElementsByClassName(id)[0];
+    }
     function fixpage() {
-        $(".page-header").style= "margin-left: 15px; margin-right:210px;";
+        $("page-header").style= "margin-left: 15px; margin-right:210px;";
     }
     fixpage();
 </script>
