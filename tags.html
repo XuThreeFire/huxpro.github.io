@@ -4,7 +4,15 @@ title: Tags
 header: Posts By Tag
 group: navigation
 ---
-
+<script>
+    function $(id) {
+        return document.getElementsByClassName(id)[0];
+    }
+    function fixpage() {
+        $("page-header").style= "margin-left: 15px; margin-right:210px;";
+    }
+    fixpage();
+</script>
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tag_words = site_tags | split:',' | sort %}
 
