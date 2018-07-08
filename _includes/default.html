@@ -154,10 +154,36 @@
 			<hr/>
 			<p>
 				&copy; {{ site.time | date: '%Y' }} {{ site.author.name }} with <a href="http://jekyllrb.com/">Jekyll</a>.
-				Wechat: {{site.author.wechat}} <a href="{{ site.BASE_PATH }}/assets/html/wechat.html" target="_blank">二维码</a>.	</p>
+				Wechat: {{site.author.wechat}}
+				 <!-- <a href="{{ site.BASE_PATH }}/assets/html/wechat.html" target="_blank">二维码</a>.	 -->
+				 <a href="#MyModal" data-toggle="modal" target="_blank"><kbd>二维码</kbd></a>.
+			 </p>
 		</footer>
 	</div>
 
+    <!--模态框（弹出框）-->
+	  <div class="modal fade" id="MyModal">
+	      <div class="modal-dialog ">
+	          <div class="modal-content">
+	              <!--头部：-->
+	              <div class="modal-header bg-dark text-white">
+	                   <h4 class="modal-title">扫一扫二维码添加微信</h4>
+	                   <button type="button" class="close text-white" data-dismiss="modal">&times;</button>
+
+	              </div>
+	              <!--身体-->
+	              <div class="modal-body" align="center">
+	                  <img src="../img/wechat.png" height="376" width="285"/>
+	                  <!--弹出框的内容-->
+	              </div>
+	              <!--&lt;!&ndash;底部&ndash;&gt;-->
+	              <!--<div class="modal-footer">-->
+	                  <!--<buttont class="btn btn-secondary" data-dismiss="modal">btn关闭</buttont>-->
+	              <!--</div>-->
+
+	          </div>
+	      </div>
+    </div>
 
 	<script type="text/javascript" src="{{ site.BASE_PATH }}/assets/resources/jquery/jquery.min.js"></script>
 	<script type="text/javascript" src="{{ site.BASE_PATH }}/assets/resources/bootstrap/js/bootstrap.min.js"></script>
