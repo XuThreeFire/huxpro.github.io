@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74a54ae9-be06-41be-9fb6-0bf16b2b6a65" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="74a54ae9-be06-41be-9fb6-0bf16b2b6a65" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +17,8 @@
       <file leaf-file-name="测试boots4.html" pinned="false" current-in-tab="true">
         <entry file="file://F:/WebStom/Web_practice/html/测试boots4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="10" column="87" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="10" selection-end-column="87" />
+            <state relative-caret-position="561">
+              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding>
                 <element signature="e#3617#3624#1" expanded="true" />
                 <element signature="e#3901#3908#1" expanded="true" />
@@ -712,8 +710,8 @@
     </entry>
     <entry file="file://F:/WebStom/Web_practice/html/测试boots4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="10" column="87" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="10" selection-end-column="87" />
+        <state relative-caret-position="561">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding>
             <element signature="e#3617#3624#1" expanded="true" />
             <element signature="e#3901#3908#1" expanded="true" />
